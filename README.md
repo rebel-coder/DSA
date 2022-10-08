@@ -1,2 +1,2 @@
-# Hacktoberfest
-Hacktoberfest 2022
+# DSA
+Contribute implementation of data structures and algorithms
